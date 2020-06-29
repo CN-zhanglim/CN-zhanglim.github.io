@@ -4,58 +4,6 @@
   
     
     <entry>
-      <title>mygallery</title>
-      <link href="/2020/06/29/mygallery/"/>
-      <url>/2020/06/29/mygallery/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>mymovie</title>
-      <link href="/2020/06/29/mymovie/"/>
-      <url>/2020/06/29/mymovie/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>movie</title>
-      <link href="/2020/06/29/movie/"/>
-      <url>/2020/06/29/movie/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>mymusic</title>
-      <link href="/2020/06/29/mymusic/"/>
-      <url>/2020/06/29/mymusic/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>SpringCloud</title>
       <link href="/2020/06/29/SpringCloud/"/>
       <url>/2020/06/29/SpringCloud/</url>
@@ -76,9 +24,9 @@
             
             <tag> SpringBoot </tag>
             
-            <tag> SpringCloud </tag>
-            
             <tag> 框架 </tag>
+            
+            <tag> SpringCloud </tag>
             
         </tags>
       
